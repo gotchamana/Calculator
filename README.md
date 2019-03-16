@@ -1,3 +1,3 @@
 # Calculator
-My simple calculator using JavaFX
+My simple calculator using JavaFX   
 ![Demo](/res/img/demo.png)
