@@ -1,0 +1,19 @@
+.root {
+	-fx-focus-color: transparent;
+}
+
+.background {
+	-fx-background-color: #C4CDE3;
+}
+.text-field {
+	-fx-font-size: 20;
+}
+
+.jfx-button {
+	-fx-font-size: 18;
+	-fx-background-color: #FEF0C1;
+}
+
+.equal-button {
+	-fx-background-color: #9DD4DE;
+}
